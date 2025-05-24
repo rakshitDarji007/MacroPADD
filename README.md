@@ -10,7 +10,7 @@ PCB:
 Case:
 ![image](https://github.com/user-attachments/assets/069c2f61-656b-423b-bdba-eb5fa45ae831)
 
-BOM:
+# BOM:
 Seeed XIAO RP2040
 MX-Style switches x 6
 Keycaps x 6
