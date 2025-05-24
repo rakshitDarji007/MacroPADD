@@ -1,5 +1,7 @@
 # MacroPADD
 macropad
+Hey Guys,
+This is my first time doing anything with hardware, I was super excited to learn and the guide was very helpful. But I basically made a macroopad.
 
 # Schematic: 
 ![image](https://github.com/user-attachments/assets/72b442a4-c44a-4ae7-b334-90716ad5dd3e)
