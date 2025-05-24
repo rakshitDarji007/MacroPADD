@@ -1,13 +1,13 @@
 # MacroPADD
 macropad
 
-Schematic: 
+# Schematic: 
 ![image](https://github.com/user-attachments/assets/72b442a4-c44a-4ae7-b334-90716ad5dd3e)
 
-PCB:
+# PCB:
 ![image](https://github.com/user-attachments/assets/39b66be5-b9ce-4c98-a32c-b262828bd700)
 
-Case:
+# Case:
 ![image](https://github.com/user-attachments/assets/069c2f61-656b-423b-bdba-eb5fa45ae831)
 
 # BOM:
